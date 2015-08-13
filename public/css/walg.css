@@ -1,0 +1,21 @@
+body {
+  padding: 0px;
+  margin: 0px; }
+
+.menu {
+  background: black;
+  position: static;
+  min-height: 100%;
+  overflow: hidden;
+  width: 140px;
+  padding-top: 10px; }
+  .menu nav img {
+    margin-bottom: 30px;
+    border-top: 10px;
+    width: 30px;
+    height: 30px;
+    display: block;
+    cursor: pointer; }
+
+.home {
+  margin-top: 100%; }

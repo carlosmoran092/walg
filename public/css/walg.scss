@@ -1,0 +1,29 @@
+$version: "0.0.1";
+
+body{padding:0px;margin:0px;}
+//variables
+
+$color-menu: #000000;
+
+
+
+// Menu
+.menu{
+	background:$color-menu;
+	position:static;
+	min-height: 100%;
+	overflow: hidden;
+	width:140px;
+	padding-top:10px;
+  	nav img{
+  	margin-bottom:30px;
+    border-top: 10px;
+    width:30px;
+    height:30px;   
+    display:block;
+    cursor:pointer;
+
+	}
+  }.home{margin-top: 100%;}
+
+
